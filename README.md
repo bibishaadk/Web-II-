@@ -1,3 +1,5 @@
+please download these before running my project: tailwindcss, clerk, react-router-dom
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
